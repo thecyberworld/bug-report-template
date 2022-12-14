@@ -1,1 +1,1 @@
-# bug-report-templates
+# bug-report-template
